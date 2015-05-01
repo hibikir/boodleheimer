@@ -3,22 +3,18 @@
 Because the best monads are those that look like they were written by a 6 year old.
 
 ###Motivational Song
-Boodleheimer! Boodleheimer!
-
-clap, clap, clap
-
+```
 Boodleheimer! Boodleheimer!
 clap, clap, clap
-
+Boodleheimer! Boodleheimer!
+clap, clap, clap
 The more you boodle, the less you heimer!
-
 the more you heimer, the more you boodle!
-
 Boodleheimer! Boodleheimer!
-
 clap, clap, clap
+```
 
-
+Song from The Silly Book. You can listen to the song [here](https://www.youtube.com/watch?v=eBNvM3VdIKo)
 ###Whining
 Scala's built in futures are composable, and there is some support for error recovery, but when all you want is error reporting,
 and you want to chain a bunch of futures, providing a single Future[Either[A,B]] is a lot of code.
