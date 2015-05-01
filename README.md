@@ -8,7 +8,6 @@ Boodleheimer! Boodleheimer!
 clap, clap, clap
 
 Boodleheimer! Boodleheimer!
-
 clap, clap, clap
 
 The more you boodle, the less you heimer!
@@ -18,6 +17,7 @@ the more you heimer, the more you boodle!
 Boodleheimer! Boodleheimer!
 
 clap, clap, clap
+
 
 ###Whining
 Scala's built in futures are composable, and there is some support for error recovery, but when all you want is error reporting,
