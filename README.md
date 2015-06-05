@@ -9,7 +9,7 @@ clap, clap, clap
 Boodleheimer! Boodleheimer!
 clap, clap, clap
 The more you boodle, the less you heimer!
-the more you heimer, the more you boodle!
+The more you heimer, the less you boodle!
 Boodleheimer! Boodleheimer!
 clap, clap, clap
 ```
